@@ -15,8 +15,7 @@ This application was modified from the Personal Burndown Chart provided by Rally
 
 ### Running the App
 
-If you want to start using the app immediately, create an Custom HTML app on your Rally dashboard. Then copy App.html from the deploy folder into the HTML text area. That's it, it should be ready to use. 
-See [this](http://www.rallydev.com/help/use_apps#create) help link if you don't know how to create a dashboard page for Custom HTML apps.
+If you want to start using the app, go to Customize Page in the upper-right corner of the page, select App Catalog, and choose Custom HTML.  Then, copy App.html from the deploy folder into the HTML text area. That's it, it should be ready to use.  Feel free to choose a title other than "Custom HTML".
 
 ### Using the App
 
